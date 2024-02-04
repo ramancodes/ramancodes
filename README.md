@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raman Manjhi @ramancodes
-- 👀 I’m interested in learning and experimenting coding.
-- 🌱 I’m currently learning C++.
-- 💞️ I have learned the basics of C language.
+- 👀 I’m interested in learning and experimenting with coding.
+- 🌱 I’m currently learning Java.
+- 💞️ I have learned the basics of C & C++ language.
 - 📫 You can contact me at - ramanmanjhi01@gmail.com
 
 <!---
